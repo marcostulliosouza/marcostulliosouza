@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcostulliosouza&layout=compact)
 
 <div align="center">
-    <img width="50" height="50" src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" alt="baby Yoda"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" alt="baby Yoda" style="width: 50px; height: 50px; border-radius: 50%;">
 </div>
 <div align="center">
     <p>
