@@ -18,7 +18,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcostulliosouza&show_icons=true&locale=pt-br" alt="marcostulliosouza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcostulliosouza&" alt="marcostulliosouza" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcostulliosouza&" alt="marcostulliosouza" /></p>
+
+![cms_files_10224_1671211139Prancheta_3](https://github.com/marcostulliosouza/marcostulliosouza/assets/31325472/542d5ea2-cd03-411b-8350-e64d1cc178cb)
 
 <div align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" alt="baby Yoda" style="width: 50px; height: 50px; border-radius: 50%;">
