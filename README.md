@@ -20,7 +20,8 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcostulliosouza&" alt="marcostulliosouza" /></p>
 
-![cms_files_10224_1671211139Prancheta_3](https://github.com/marcostulliosouza/marcostulliosouza/assets/31325472/542d5ea2-cd03-411b-8350-e64d1cc178cb)
+<h3 align="left">Badges</h3>
+<img src="https://github.com/marcostulliosouza/marcostulliosouza/assets/31325472/542d5ea2-cd03-411b-8350-e64d1cc178cb" alt="desafio one oracle" width="200" height="200" align="center"/>
 
 <div align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" alt="baby Yoda" style="width: 50px; height: 50px; border-radius: 50%;">
