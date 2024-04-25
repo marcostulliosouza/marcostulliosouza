@@ -21,13 +21,16 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcostulliosouza&" alt="marcostulliosouza" /></p>
 
 <h3 align="left">Badges</h3>
-<img src="https://github.com/marcostulliosouza/marcostulliosouza/assets/31325472/542d5ea2-cd03-411b-8350-e64d1cc178cb" alt="desafio one oracle" width="200" height="200" align="center"/>
+<img src="https://github.com/marcostulliosouza/marcostulliosouza/assets/31325472/87cd0a9c-1378-4c51-82f0-aad2552451bb" alt="desafio one oracle" width="200" height="200" style="display: flex; margin: 0 auto;">
+<img src="https://github.com/marcostulliosouza/marcostulliosouza/assets/31325472/fcffa54d-545e-4867-9934-ac9308ff8a57" alt="Badge-Conversor" width="200" height="200" style="display: flex; margin: 0 auto;"/>
+
 
 <div align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" alt="baby Yoda" style="width: 50px; height: 50px; border-radius: 50%;">
 </div>
 <div align="center">
     <p>
-    Que a Força esteja com você!
+    Que a Força esteja com você!![Uploading Badge-Conversor.png…]()
+
     </p>
 </div>
