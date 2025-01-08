@@ -33,9 +33,7 @@ Sou engenheiro eletricista com uma forte paixão por programação e novas tecno
 <p align="center">
   <div style="display: flex; justify-content: space-around; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcostulliosouza&show_icons=true&locale=pt-br&layout=compact" alt="marcostulliosouza" width="30%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=marcostulliosouza&show_icons=true&locale=pt-br" alt="marcostulliosouza" width="30%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcostulliosouza&" alt="marcostulliosouza" width="30%" />
-      
+    <img src="https://github-readme-stats.vercel.app/api?username=marcostulliosouza&show_icons=true&locale=pt-br" alt="marcostulliosouza" width="30%" />      
   </div>
 </p>
 
