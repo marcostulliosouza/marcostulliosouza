@@ -47,6 +47,6 @@ Sou engenheiro eletricista com uma forte paixão por programação e novas tecno
 </div>
 
 ## "Que a Força esteja com você!"
-<div align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Wn74RUT0vjnoU98Hnt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/baby-yoda-Wn74RUT0vjnoU98Hnt">via GIPHY</a></p>
-</div>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Wn74RUT0vjnoU98Hnt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/baby-yoda-Wn74RUT0vjnoU98Hnt">via GIPHY</a></p>
+
