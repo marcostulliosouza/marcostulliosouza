@@ -48,5 +48,5 @@ Sou engenheiro eletricista com uma forte paixão por programação e novas tecno
 
 ## "Que a Força esteja com você!"
 <div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" alt="baby Yoda" style="width: 50px; height: 50px; border-radius: 50%;">
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Wn74RUT0vjnoU98Hnt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/baby-yoda-Wn74RUT0vjnoU98Hnt">via GIPHY</a></p>
 </div>
