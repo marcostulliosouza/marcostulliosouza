@@ -18,7 +18,7 @@ Trabalho principalmente com C e C++ para sistemas de baixo nível e com Node.js,
 
 * Desenvolvimento de firmware em C/C++
 * Integração hardware/software
-* Microcontroladores (Arduino, ESP32)
+* Microcontroladores (Arduino, ESP32, STM32)
 * Debug e otimização de desempenho
 
 **Desenvolvimento Full-Stack**
