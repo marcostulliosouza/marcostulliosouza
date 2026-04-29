@@ -55,7 +55,7 @@ PostgreSQL
 Git, Docker, Linux
 
 **Embarcados**
-Arduino, ESP32
+Arduino, ESP32, STM32
 
 ---
 
